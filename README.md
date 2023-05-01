@@ -2,7 +2,7 @@
 
 <br />
 
-[![ItsNoss Github Stats](https://github-readme-stats.vercel.app/api?username=notnoss&show_icons=true&theme=algolia)](https://github.com/notnoss)
+[![NotNoss's GitHub stats](https://github-readme-stats.vercel.app/api?username=notnoss)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
