@@ -9,8 +9,6 @@
 ## I am a college student, IT Professional and Developer
 I'm not that great at programming but you know, here I am.
 
-Most of my projects, you will not be able to find because they were purged or not uploaded.
-
 - I am currently working on Abaddon Bot for Discord.
 
 <br />
