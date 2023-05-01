@@ -2,16 +2,16 @@
 
 <br />
 
-[![ItsNoss Github Stats](https://github-readme-stats.vercel.app/api?username=ItsNoss&show_icons=true&theme=algolia)](https://github.com/itsnoss)
+[![ItsNoss Github Stats](https://github-readme-stats.vercel.app/api?username=notnoss&show_icons=true&theme=algolia)](https://github.com/notnoss)
 
 <br />
 
 ## I am a college student, IT Professional and Developer
-I am still fairly new to programming but I am having a lot of fun.
+I'm not that great at programming but you know, here I am.
 
 Most of my projects, you will not be able to find because they were purged or not uploaded.
 
-- I am currently working on re-writing my bot for my [Discord server](http://discord.itsnoss.tech)
+- I am currently working on Abaddon Bot for Discord.
 
 <br />
 <!--
