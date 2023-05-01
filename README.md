@@ -2,7 +2,7 @@
 
 <br />
 
-[![NotNoss's GitHub stats](https://github-readme-stats.vercel.app/api?username=notnoss)](https://github.com/anuraghazra/github-readme-stats)
+[![NotNoss's GitHub stats](https://github-readme-stats.vercel.app/api?username=notnoss&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
@@ -17,7 +17,7 @@ Most of my projects, you will not be able to find because they were purged or no
 <!--
 ### Connect with me
 [![Discord](https://img.shields.io/discord/808598513646174228?color=%234518f5&label=Discord&logo=discord&logoColor=%23403d3d&style=flat-square)](http://discord.itsnoss.tech)
-[![Twitter](https://img.shields.io/twitter/follow/realnoss?color=%234518f5&style=flat-square&logo=twitter)](https://twitter.com/novaspirittech)
+[![Twitter](https://img.shields.io/twitter/follow/realnoss?color=%234518f5&style=flat-square&logo=twitter)](https://twitter.com/)
 [![Email](https://img.shields.io/badge/Email-contact%40itsnoss.tech-234518f?color=%234518f5&logo=gmail&logoColor=%23403d3d&style=flat-square)](mailto:contact@itsnoss.tech)
 
 <br />
